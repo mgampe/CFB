@@ -8,16 +8,16 @@ historic_model_comparison.ipynb is a script for training, testing, optimizing, a
 python version: 3.8.2 64 bit
 
 Data requirements: Provided with the code
-cfb_15_21_train_wide.csv
-cfb_15_21_test_wide.csv
-w4_data.csv
-w4_not_yet_played.csv
+cfb_15_21_train_wide.csv,
+cfb_15_21_test_wide.csv,
+w4_data.csv,
+w4_not_yet_played.csv,
 week4_matchups.csv
 
 Imports/Dependencies: Please ensure you have the following installed before running the notebook:
-Numpy 
-pandas
-seaborn
-sklearn
-matplotlib
+numpy, 
+pandas,
+seaborn,
+sklearn,
+matplotlib,
 tensorflow
