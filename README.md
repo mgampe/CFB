@@ -14,7 +14,7 @@ w4_data.csv
 w4_not_yet_played.csv
 week4_matchups.csv
 
-Imports/Dependencies: Please ensure you have the following installed before running the notebook
+Imports/Dependencies: Please ensure you have the following installed before running the notebook:
 Numpy 
 pandas
 seaborn
